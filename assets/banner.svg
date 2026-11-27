@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="320" viewBox="0 0 1600 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050507"/>
+      <stop offset="100%" stop-color="#0a0a0d"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="320" fill="url(#bg)"/>
+
+  <g stroke="#00E5FF" stroke-opacity="0.05" stroke-width="1">
+    <line x1="0" y1="100" x2="1600" y2="100"/>
+    <line x1="0" y1="220" x2="1600" y2="220"/>
+  </g>
+
+  <g fill="none" stroke="#00E5FF" stroke-width="2.5" stroke-opacity="0.85">
+    <path d="M 50 50 L 50 90 L 95 90"/>
+    <path d="M 1550 50 L 1550 90 L 1505 90"/>
+    <path d="M 50 230 L 50 270 L 95 270"/>
+    <path d="M 1550 230 L 1550 270 L 1505 270"/>
+  </g>
+
+  <g filter="url(#softGlow)" opacity="0.3">
+    <path d="M 720 120 L 800 60 L 880 120 L 840 170 L 760 170 Z" fill="#00E5FF"/>
+    <path d="M 740 130 L 800 85 L 860 130 L 820 155 L 780 155 Z" fill="#FCEE0A"/>
+  </g>
+
+  <text x="800" y="165" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="40" font-weight="700" fill="#FCEE0A" text-anchor="middle" letter-spacing="3">FEX592</text>
+  <text x="800" y="200" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="15" fill="#00E5FF" text-anchor="middle" letter-spacing="6">NIGHT CITY TERMINAL // LUCY INTERFACE</text>
+  <text x="800" y="235" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#BC13FE" text-anchor="middle" letter-spacing="1">[ ONLINE ]</text>
+
+  <rect x="0" y="312" width="1600" height="8" fill="#FCEE0A" opacity="0.6"/>
+
+  <g stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.025">
+    <line x1="0" y1="64" x2="1600" y2="64"/>
+    <line x1="0" y1="128" x2="1600" y2="128"/>
+    <line x1="0" y1="192" x2="1600" y2="192"/>
+    <line x1="0" y1="256" x2="1600" y2="256"/>
+  </g>
+</svg>
