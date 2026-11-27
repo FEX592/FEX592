@@ -109,26 +109,21 @@
   <img src="assets/divider.svg" alt="divider" width="500" />
 </p>
 
-<!-- ===== CONTACT TABLE WITH GIF SIDE-BY-SIDE (LANDSCAPE) ===== -->
+<!-- ===== CONTACT TABLE ===== -->
 ### `CONNECT // CONTACT`
 
-<table align="center" width="900" border="0" cellpadding="0" cellspacing="0">
+<table align="center" width="500" border="1" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="220" align="center">
-      <img src="assets/lucy-icegif.gif" alt="Lucy" width="180" />
-    </td>
-    <td width="680" align="left">
-      <table width="660" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-          <td width="160"><b>Instagram</b></td>
-          <td><a href="https://instagram.com/emmyfex">emmyfex</a> → instagram.com/emmyfex</td>
-        </tr>
-        <tr>
-          <td><b>GitHub</b></td>
-          <td><a href="https://github.com/FEX592">FEX592</a> → github.com/FEX592</td>
-        </tr>
-      </table>
-    </td>
+    <td width="160"><b>Instagram</b></td>
+    <td><a href="https://instagram.com/emmyfex">emmyfex</a> → instagram.com/emmyfex</td>
+  </tr>
+  <tr>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/FEX592">FEX592</a> → github.com/FEX592</td>
+  </tr>
+  <tr>
+    <td><b>Site</b></td>
+    <td><a href="https://fex-site.vercel.app">fex-site.vercel.app</a></td>
   </tr>
 </table>
 
@@ -143,8 +138,8 @@
 
 <!--
   FEX592 is a ✨ special ✨ repository because its README.md appears on your profile.
-  Artwork: lucy-icegif.gif (skills table), lucy-discover.gif (projects table),
-  lucy-david-moon.gif (contact table) — all three GIFs from your Downloads,
+  Artwork: lucy-david-moon.gif (top header), lucy-icegif.gif (skills table),
+  lucy-discover.gif (projects table) — all three GIFs from your Downloads,
   divider.svg (original SVG). Self-hosted in repo, no external image services.
   Colors: #050507 · #00E5FF · #FCEE0A · #BC13FE.
   No badges, no oversized stats panels.
