@@ -1,64 +1,62 @@
 <!--
   FEX592 / FEX592 — Cyberpunk: Edgerunners profile (Lucy)
-  Real artwork from the Edgerunners codex pet project on GitHub:
-  - assets/lucy-avatar.gif  (192×208 GIF, Lucy idle)
-  - assets/lucy-standing.png (256×450 PNG, Lucy standing)
-  - assets/lucy-running.png  (1536×468 PNG, Lucy running strip)
+  Real artwork from Kingslie-Wong/Cyberpunk-Edgerunners-Lucy-Codex-Pet (GitHub):
+  - assets/lucy-standing.png   (hero, 256×450)
+  - assets/lucy-avatar.gif     (avatar, 192×208 animated)
+  - assets/lucy-running.png    (banner strip, 1536×468)
   Palette: charcoal · cyberpunk yellow #FCEE0A · neon cyan #00E5FF
-  No glow, no scanlines, no glitch, no badges. Quiet chrome, one accent.
+  Anime-profile conventions: hero image, terminal block side-by-side with character,
+  devicon skill icons, modest stats widgets. No glow, no scanlines, no badges spam.
 -->
 
 <p align="center">
-  <img src="assets/lucy-standing.png" alt="Lucy, Cyberpunk: Edgerunners" width="600" />
+  <img src="assets/lucy-standing.png" alt="Lucy — Cyberpunk: Edgerunners" width="600" />
 </p>
 
 <p align="center">
-  <img src="assets/lucy-avatar.gif" alt="Lucy avatar" width="120" />
+  <img src="assets/lucy-avatar.gif" alt="Lucy avatar" width="160" />
 </p>
 
 <h1 align="center">FEX592</h1>
 
 <p align="center">
-  <code>user@night-city:~$ whoami</code><br>
-  <code>FEX592</code><br>
-  <code>user@night-city:~$ cat /etc/motd</code>
-</p>
-
-<blockquote align="center">
-  FEX · Nigerian student · AI, autonomous agents, automation & software development.<br>
+  <b>FEX</b> · Nigerian student · AI, autonomous agents, automation & software development.<br>
   Building useful systems from a terminal in Night City.
-</blockquote>
-
-<p align="center">
-  <img src="assets/lucy-running.png" alt="Lucy running" width="900" />
 </p>
-
-### `SYSTEM // SKILLS`
 
 <table align="center">
   <tr>
-    <td><b>Languages</b></td>
-    <td>HTML · CSS · JavaScript · TypeScript · Kotlin</td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>React · Vite · Vercel</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>Express · Node.js · Supabase</td>
-  </tr>
-  <tr>
-    <td><b>Payments · Email</b></td>
-    <td>Paystack · Brevo</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>Git · GitHub · Termux</td>
+    <td>
+      <i>user@night-city:~$ whoami</i><br>
+      <b>FEX592</b><br>
+      <i>user@night-city:~$ cat /etc/motd</i>
+      <pre>
+-------------------------------------------------------------------------------
+Username:      FEX592
+Whoami:        AI, autonomous agents, automation & software development
+OS:            Termux (Android 16)
+Shell:         zsh
+Location:      Night City
+Languages:     TypeScript · JavaScript · HTML · CSS · Kotlin
+Frontend:      React · Vite · Vercel
+Backend:       Express · Node.js · Supabase
+Payments:      Paystack · Brevo
+-------------------------------------------------------------------------------
+      </pre>
+    </td>
+    <td>
+      <img src="assets/lucy-avatar.gif" alt="Lucy avatar" width="200" />
+    </td>
   </tr>
 </table>
 
-### `ACTIVE // PROJECTS`
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,kotlin,nodejs,express,git,github,vercel,supabase" />
+  </a>
+</p>
+
+<h3 align="center">`ACTIVE // PROJECTS`</h3>
 
 <table align="center">
   <tr>
@@ -88,14 +86,17 @@
   </tr>
 </table>
 
-### `TERMINAL // STATS`
-
 <p align="center">
-  <code>repos: 20</code> &nbsp;|&nbsp; <code>public: 14</code> &nbsp;|&nbsp; <code>private: 6</code><br>
-  <code>languages: TypeScript · JavaScript · HTML · Kotlin · CSS</code>
+  <a href="https://github.com/FEX592">
+    <img src="https://github-readme-stats.vercel.app/api?username=FEX592&show_icons=true&theme=tokyonight&hide_rank=false" alt="FEX592's GitHub stats" />
+  </a>
 </p>
 
-### `CONNECT // CONTACT`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FEX592&theme=tokyonight&layout=compact&langs_count=6" alt="Top languages" />
+</p>
+
+<h3 align="center">`CONNECT // CONTACT`</h3>
 
 <table align="center">
   <tr>
@@ -116,5 +117,6 @@
 <!--
   FEX592 is a ✨ special ✨ repository because its README.md appears on your profile.
   Artwork: real Lucy GIF/PNG from Kingslie-Wong/Cyberpunk-Edgerunners-Lucy-Codex-Pet (GitHub).
-  Colors: #FCEE0A · #00E5FF. No glow, no scanlines, no badges, no external image services.
+  Stats: github-readme-stats (vercel.app). Icons: skillicons.dev.
+  Colors: #FCEE0A · #00E5FF. No glow, no scanlines, no badges spam.
 -->
