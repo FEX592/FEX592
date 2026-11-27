@@ -1,21 +1,21 @@
 <!--
   FEX592 / FEX592 — Cyberpunk: Edgerunners profile (Lucy)
-  Assets spread down the page: GIF top, hero image, avatar mid-page, dividers between sections.
+  Assets peeled out across the page: GIF top, hero image after first table,
+  avatar after second table. Nothing touches another asset.
   Palette: charcoal #050507 · cyberpunk yellow #FCEE0A · neon cyan #00E5FF · magenta #BC13FE
   No badges, no oversized stats panels, no external image services.
 -->
 
-<!-- ===== TOP: GIF ===== -->
+<!-- ===== TOP: GIF ALONE ===== -->
 <p align="center">
   <img src="assets/lucy-david-moon.gif" alt="David & Lucy moon scene" width="600" />
 </p>
 
 <h1 align="center">FEX592</h1>
 
-<!-- ===== HERO IMAGE ===== -->
-<p align="center">
-  <img src="assets/lucy-hero.jpg" alt="Lucy — Take Me to the Moon" width="500" />
-</p>
+<code>user@night-city:~$ whoami</code><br>
+<code>FEX592</code><br>
+<code>user@night-city:~$ cat /etc/motd</code>
 
 <blockquote align="center">
   FEX · Nigerian student · AI, autonomous agents, automation & software development.<br>
@@ -26,20 +26,7 @@
   <img src="assets/divider.svg" alt="divider" width="500" />
 </p>
 
-<!-- ===== AVATAR + TERMINAL BLOCK ===== -->
-<p align="center">
-  <img src="assets/lucy-cyber-art.jpeg" alt="Lucy avatar" width="160" />
-</p>
-
-<code>user@night-city:~$ whoami</code><br>
-<code>FEX592</code><br>
-<code>user@night-city:~$ cat /etc/motd</code>
-
-<p align="center">
-  <img src="assets/divider.svg" alt="divider" width="500" />
-</p>
-
-<!-- ===== SKILLS TABLE ===== -->
+<!-- ===== FIRST TABLE: SKILLS ===== -->
 ### `SYSTEM // SKILLS`
 
 <table align="center" width="600" border="1" cellpadding="10" cellspacing="0">
@@ -69,7 +56,16 @@
   <img src="assets/divider.svg" alt="divider" width="500" />
 </p>
 
-<!-- ===== PROJECTS TABLE ===== -->
+<!-- ===== SECOND ASSET: HERO IMAGE ALONE ===== -->
+<p align="center">
+  <img src="assets/lucy-hero.jpg" alt="Lucy — Take Me to the Moon" width="500" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="divider" width="500" />
+</p>
+
+<!-- ===== SECOND TABLE: PROJECTS ===== -->
 ### `ACTIVE // PROJECTS`
 
 <table align="center" width="700" border="1" cellpadding="10" cellspacing="0">
@@ -104,7 +100,16 @@
   <img src="assets/divider.svg" alt="divider" width="500" />
 </p>
 
-<!-- ===== CONTACT TABLE ===== -->
+<!-- ===== THIRD ASSET: AVATAR ALONE ===== -->
+<p align="center">
+  <img src="assets/lucy-cyber-art.jpeg" alt="Lucy avatar" width="160" />
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="divider" width="500" />
+</p>
+
+<!-- ===== THIRD TABLE: CONTACT ===== -->
 ### `CONNECT // CONTACT`
 
 <table align="center" width="500" border="1" cellpadding="10" cellspacing="0">
@@ -129,8 +134,9 @@
 
 <!--
   FEX592 is a ✨ special ✨ repository because its README.md appears on your profile.
-  Artwork: lucy-david-moon.gif (top), lucy-hero.jpg (hero), lucy-cyber-art.jpeg (avatar),
-  divider.svg (original SVG) — all from your Downloads, self-hosted in repo.
+  Artwork: lucy-david-moon.gif (top), lucy-hero.jpg (after skills table),
+  lucy-cyber-art.jpeg (after projects table) — all from your Downloads,
+  divider.svg (original SVG). Self-hosted in repo, no external image services.
   Colors: #050507 · #00E5FF · #FCEE0A · #BC13FE.
-  No badges, no external image services.
+  No badges, no oversized stats panels.
 -->
