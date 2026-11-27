@@ -1,14 +1,14 @@
 <!--
   FEX592 / FEX592 — Cyberpunk: Edgerunners profile (Lucy)
-  Single asset: lucy.gif (your new download) placed landscape — side-by-side
-  with each table. All other images removed.
+  Three GIFs from your Downloads, each placed landscape side-by-side with its table:
+  lucy-icegif.gif with Skills, lucy-discover.gif with Projects, lucy-david-moon.gif with Contact.
+  No other images, no badges, no oversized stats panels, no external image services.
   Palette: charcoal #050507 · cyberpunk yellow #FCEE0A · neon cyan #00E5FF · magenta #BC13FE
-  No badges, no oversized stats panels, no external image services.
 -->
 
-<!-- ===== TOP: GIF ALONE ===== -->
+<!-- ===== TOP: FIRST GIF ALONE ===== -->
 <p align="center">
-  <img src="assets/lucy.gif" alt="Lucy — Cyberpunk: Edgerunners" width="400" />
+  <img src="assets/lucy-icegif.gif" alt="Lucy — Cyberpunk: Edgerunners" width="400" />
 </p>
 
 <h1 align="center">FEX592</h1>
@@ -32,7 +32,7 @@
 <table align="center" width="900" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="220" align="center">
-      <img src="assets/lucy.gif" alt="Lucy" width="180" />
+      <img src="assets/lucy-icegif.gif" alt="Lucy" width="180" />
     </td>
     <td width="680" align="left">
       <table width="660" border="1" cellpadding="10" cellspacing="0">
@@ -71,7 +71,7 @@
 <table align="center" width="900" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="220" align="center">
-      <img src="assets/lucy.gif" alt="Lucy" width="180" />
+      <img src="assets/lucy-discover.gif" alt="Lucy" width="180" />
     </td>
     <td width="680" align="left">
       <table width="660" border="1" cellpadding="10" cellspacing="0">
@@ -115,7 +115,7 @@
 <table align="center" width="900" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="220" align="center">
-      <img src="assets/lucy.gif" alt="Lucy" width="180" />
+      <img src="assets/lucy-david-moon.gif" alt="Lucy" width="180" />
     </td>
     <td width="680" align="left">
       <table width="660" border="1" cellpadding="10" cellspacing="0">
@@ -143,7 +143,8 @@
 
 <!--
   FEX592 is a ✨ special ✨ repository because its README.md appears on your profile.
-  Artwork: lucy.gif (your new download — placed landscape side-by-side with each table),
+  Artwork: lucy-icegif.gif (skills table), lucy-discover.gif (projects table),
+  lucy-david-moon.gif (contact table) — all three GIFs from your Downloads,
   divider.svg (original SVG). Self-hosted in repo, no external image services.
   Colors: #050507 · #00E5FF · #FCEE0A · #BC13FE.
   No badges, no oversized stats panels.
