@@ -1,13 +1,14 @@
 <!--
   FEX592 / FEX592 — Cyberpunk: Edgerunners profile (Lucy)
-  Original SVG artwork committed to assets/ (banner.svg, avatar.svg, divider.svg).
+  Hero artwork: lucy-hero.jpg (real Lucy, Cyberpunk: Edgerunners HUD style)
+  Avatar & dividers: original SVG committed to assets/.
   Palette: charcoal #050507 · cyberpunk yellow #FCEE0A · neon cyan #00E5FF · magenta #BC13FE
-  Quiet chrome: hero banner, trimmed terminal block, small projects table, contact, closing line.
-  No glow spam, no scanlines, no badges, no oversized stats panels.
+  Quiet chrome: hero image, trimmed terminal block, small projects table, contact, closing line.
+  No badges, no oversized stats panels, no glow spam.
 -->
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Night City terminal banner" width="1600" />
+  <img src="assets/lucy-hero.jpg" alt="Lucy — Cyberpunk: Edgerunners" width="700" />
 </p>
 
 <p align="center">
@@ -118,7 +119,7 @@
 
 <!--
   FEX592 is a ✨ special ✨ repository because its README.md appears on your profile.
-  Artwork: original SVG committed to assets/ (banner.svg, avatar.svg, divider.svg).
+  Artwork: lucy-hero.jpg (hero, real Lucy), avatar.svg + divider.svg (original SVG).
   Colors: #050507 · #00E5FF · #FCEE0A · #BC13FE.
-  No external image services, no tracking, no broken embeds.
+  No badges, no oversized stats panels, no external image services.
 -->
