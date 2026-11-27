@@ -61,6 +61,13 @@
   </tr>
 </table>
 
+<!-- Skill icons under the tech stack table -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,kotlin,nodejs,express,git,github,vercel,supabase" alt="Tech stack icons" />
+  </a>
+</p>
+
 <p align="center">
   <img src="assets/divider.svg" alt="divider" width="500" />
 </p>
