@@ -8,7 +8,7 @@
 
 <!-- ===== TOP: FIRST GIF ALONE ===== -->
 <p align="center">
-  <img src="assets/lucy-icegif.gif" alt="Lucy — Cyberpunk: Edgerunners" width="400" />
+  <img src="assets/lucy-david-moon.gif" alt="Lucy — Cyberpunk: Edgerunners" width="400" />
 </p>
 
 <h1 align="center">FEX592</h1>
@@ -115,7 +115,7 @@
 <table align="center" width="900" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="220" align="center">
-      <img src="assets/lucy-david-moon.gif" alt="Lucy" width="180" />
+      <img src="assets/lucy-icegif.gif" alt="Lucy" width="180" />
     </td>
     <td width="680" align="left">
       <table width="660" border="1" cellpadding="10" cellspacing="0">
