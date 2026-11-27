@@ -1,13 +1,14 @@
 <!--
   FEX592 / FEX592 — Cyberpunk: Edgerunners profile (Lucy)
-  Assets peeled out and placed next to tables; skill icons under the tech stack table.
+  Single asset: lucy.gif (your new download) placed landscape — side-by-side
+  with each table. All other images removed.
   Palette: charcoal #050507 · cyberpunk yellow #FCEE0A · neon cyan #00E5FF · magenta #BC13FE
   No badges, no oversized stats panels, no external image services.
 -->
 
 <!-- ===== TOP: GIF ALONE ===== -->
 <p align="center">
-  <img src="assets/lucy-david-moon.gif" alt="David & Lucy moon scene" width="600" />
+  <img src="assets/lucy.gif" alt="Lucy — Cyberpunk: Edgerunners" width="400" />
 </p>
 
 <h1 align="center">FEX592</h1>
@@ -25,13 +26,16 @@
   <img src="assets/divider.svg" alt="divider" width="500" />
 </p>
 
-<!-- ===== SKILLS TABLE + AVATAR NEXT TO IT ===== -->
+<!-- ===== SKILLS TABLE WITH GIF SIDE-BY-SIDE (LANDSCAPE) ===== -->
 ### `SYSTEM // SKILLS`
 
 <table align="center" width="900" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="560" align="left">
-      <table width="540" border="1" cellpadding="10" cellspacing="0">
+    <td width="220" align="center">
+      <img src="assets/lucy.gif" alt="Lucy" width="180" />
+    </td>
+    <td width="680" align="left">
+      <table width="660" border="1" cellpadding="10" cellspacing="0">
         <tr>
           <td width="150"><b>Languages</b></td>
           <td>TypeScript · JavaScript · HTML · CSS · Kotlin</td>
@@ -54,33 +58,23 @@
         </tr>
       </table>
     </td>
-    <td width="340" align="center">
-      <img src="assets/lucy-cyber-art.jpeg" alt="Lucy avatar" width="200" />
-    </td>
   </tr>
 </table>
-
-<!-- Skill icons under the tech stack table -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,kotlin,nodejs,express,git,github,vercel,supabase" alt="Tech stack icons" />
-  </a>
-</p>
 
 <p align="center">
   <img src="assets/divider.svg" alt="divider" width="500" />
 </p>
 
-<!-- ===== HERO IMAGE NEXT TO PROJECTS TABLE ===== -->
+<!-- ===== PROJECTS TABLE WITH GIF SIDE-BY-SIDE (LANDSCAPE) ===== -->
 ### `ACTIVE // PROJECTS`
 
 <table align="center" width="900" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="320" align="center">
-      <img src="assets/lucy-hero.jpg" alt="Lucy — Take Me to the Moon" width="280" />
+    <td width="220" align="center">
+      <img src="assets/lucy.gif" alt="Lucy" width="180" />
     </td>
-    <td width="580" align="left">
-      <table width="560" border="1" cellpadding="10" cellspacing="0">
+    <td width="680" align="left">
+      <table width="660" border="1" cellpadding="10" cellspacing="0">
         <tr>
           <td width="160"><b>Project</b></td>
           <td width="240"><b>Stack</b></td>
@@ -115,17 +109,26 @@
   <img src="assets/divider.svg" alt="divider" width="500" />
 </p>
 
-<!-- ===== CONTACT TABLE ===== -->
+<!-- ===== CONTACT TABLE WITH GIF SIDE-BY-SIDE (LANDSCAPE) ===== -->
 ### `CONNECT // CONTACT`
 
-<table align="center" width="500" border="1" cellpadding="10" cellspacing="0">
+<table align="center" width="900" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="160"><b>Instagram</b></td>
-    <td><a href="https://instagram.com/emmyfex">emmyfex</a> → instagram.com/emmyfex</td>
-  </tr>
-  <tr>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/FEX592">FEX592</a> → github.com/FEX592</td>
+    <td width="220" align="center">
+      <img src="assets/lucy.gif" alt="Lucy" width="180" />
+    </td>
+    <td width="680" align="left">
+      <table width="660" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+          <td width="160"><b>Instagram</b></td>
+          <td><a href="https://instagram.com/emmyfex">emmyfex</a> → instagram.com/emmyfex</td>
+        </tr>
+        <tr>
+          <td><b>GitHub</b></td>
+          <td><a href="https://github.com/FEX592">FEX592</a> → github.com/FEX592</td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
@@ -140,8 +143,7 @@
 
 <!--
   FEX592 is a ✨ special ✨ repository because its README.md appears on your profile.
-  Artwork: lucy-david-moon.gif (top), lucy-cyber-art.jpeg (next to skills table),
-  lucy-hero.jpg (next to projects table) — all from your Downloads,
+  Artwork: lucy.gif (your new download — placed landscape side-by-side with each table),
   divider.svg (original SVG). Self-hosted in repo, no external image services.
   Colors: #050507 · #00E5FF · #FCEE0A · #BC13FE.
   No badges, no oversized stats panels.
